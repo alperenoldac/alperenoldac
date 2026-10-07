@@ -1,17 +1,19 @@
-### Hi there! 👋 I'm building my path in Cyber Security (Blue Team).
+### Hi, I'm Alperen 👋
 
-I'm a Software Engineering undergrad actively training for a career in cybersecurity defense. I learn best by getting my hands dirty, so this profile is my active scratchpad for scripts, automations, and lab notes.
+I'm a 4th-year Software Engineering student at Adana Alparslan Türkeş
+Science and Technology University, focusing on backend development
+with C# and .NET.
 
-**🎯 The Vision:** Establishing a strong foundation in SOC Operations ➔ Transitioning to Cloud Security.
+**Currently working on**
+- 🏭 **ISPSN** – Industrial Spare Parts Sharing Network: my graduation
+  project, a web app that helps factories in organized industrial zones
+  find and lend spare parts to each other.
+  Built with ASP.NET Core MVC, EF Core and PostgreSQL. *(in progress)*
 
-**What I'm currently working on:**
-* 🐧 Deepening my Linux knowledge (permissions, processes, and Bash scripting).
-* 🛡️ Grinding through defensive paths on TryHackMe.
-* 💻 Building my Blue Team toolkit and documenting my lab environments.
+**Learning**
+- C#, ASP.NET Core, Entity Framework Core
+- SQL & PostgreSQL
+- Unit testing (xUnit), Git & GitHub Actions
 
-**Tech Stack & Tools:**
-* Bash / Linux CLI
-* Wireshark & Network Protocols
-* Basic Log Analysis
-
-Feel free to explore my active repositories or connect with me on LinkedIn!
+📫 Open to backend internship opportunities for summer 2027 (Adana).
+[LinkedIn](https://www.linkedin.com/in/alperenturanoldac)
